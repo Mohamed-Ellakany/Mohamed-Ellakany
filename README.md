@@ -33,6 +33,21 @@
 <br clear="both"/>
 <br clear="both"/>
 
+### 🚀 Featured Projects
+
+- **[GreenMind Backend](https://github.com/Mohamed-Ellakany/GreenMind-Backend)**  
+  ITI Graduation Project – ASP.NET Core API with AI integration using Semantic Kernel.
+
+- **[Shopiva](https://github.com/Mohamed-Ellakany/Shopiva)**  
+  E-commerce API using JWT Authentication, Redis, and Stripe.
+
+- **[BloodBankWebSolution](https://github.com/Mohamed-Ellakany/BloodBankWebSolution)**  
+  BSc Graduation Project – Blood Bank Management System.
+
+
+<br clear="both"/>
+<br clear="both"/>
+
 ### 🤝 Connect With Me
 
 
